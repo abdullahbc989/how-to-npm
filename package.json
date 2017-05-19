@@ -1,11 +1,19 @@
 {
-  "name": "howtomodule",
+  "name": "@tdullah/howtomodule",
   "version": "1.0.0",
-  "description": "",
+  "description": "First project in the how-to-npm course",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Abdullah Clute",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahbc989/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abdullahbc989/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/abdullahbc989/how-to-npm#readme"
 }
