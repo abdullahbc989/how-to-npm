@@ -1,6 +1,6 @@
 {
   "name": "@tdullah/howtomodule",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "First project in the how-to-npm course",
   "main": "index.js",
   "scripts": {
