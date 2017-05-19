@@ -4,7 +4,7 @@
   "description": "First project in the how-to-npm course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "Abdullah Clute",
   "license": "ISC",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abdullahbc989/how-to-npm/issues"
   },
-  "homepage": "https://github.com/abdullahbc989/how-to-npm#readme"
+  "homepage": "https://github.com/abdullahbc989/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
